@@ -7,3 +7,5 @@ url = 'https://gist.githubusercontent.com/mattkram/9684863843254402942dfede27af2
 df = pd.read_csv(url)
 
 df.head(10)
+
+This code imports the `pandas` package, reads the CSV data from the given URL using the `read_csv()` function, and then displays the first 10 rows of the DataFrame using the `head()` function.
